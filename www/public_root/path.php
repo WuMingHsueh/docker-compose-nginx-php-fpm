@@ -1,1 +1,1 @@
-<?= $_SERVER['DOCUMENT_ROOT'];
+<?= $_SERVER['PATH_INFO'];
